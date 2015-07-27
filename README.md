@@ -23,7 +23,7 @@ Workflow-As-Code is...
 * Written in Node.js
 
 Paz is not...
-* A hosted service
+* A hosted service ... it's up to you to roll your own
 * A complete, enterprise-ready orchestration solution
 
 ## Features
