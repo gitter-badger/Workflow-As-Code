@@ -12,11 +12,11 @@ Paz's documentation can be found [here](http://paz.readme.io).
 
 ## What is Paz?
 
-Paz is...
-* Like your own private PaaS that you can host anywhere
-* Free
-* Open-source
-* Simple
+Workflow-As-Code is...
+* Your own private PaaS, hosted where you want to host it
+* Free, extensible ... its value to you is dependent upon your customization
+* Open-source ... sharing and collaborating is the way to build community and networks
+* Simple ... but not yet simple enough
 * A web front-end to CoreOS' Fleet with a PaaS-like workflow
 * Like a clustered/multi-host Dokku
 * Alpha software
