@@ -1,16 +1,16 @@
 [![Gitter chat](https://badges.gitter.im/paz-sh/paz.png)](https://gitter.im/paz-sh/paz)
 
-Paz
-===
+Workflow-As-Code, a clone of Paz
+================================
 _Continuous deployment production environments, built on Docker, CoreOS, etcd and fleet._
 
-Paz is an in-house service platform with a PaaS-like workflow.
+Workflow-As-Code is a DevOps engineering service platform with a PaaS-like workflow.
 
-Paz's documentation can be found [here](http://paz.readme.io).
+Workflow-As-Code is a in it's VERY early phases of development -- at this point, it most closely resembles Paz. Paz's documentation can be found [here](http://paz.readme.io).
 
 ![Screenshot](https://raw.githubusercontent.com/yldio/paz/206283f9f2b0c21bc4abf3a1f3926bd5e0f0a962/docs/images/Screen%20Shot%202014-11-22%20at%2016.39.07.png)
 
-## What is Paz?
+## What is Workflow-As-Code?
 
 Workflow-As-Code is...
 * Your own private PaaS, hosted where you want to host it
