@@ -2,6 +2,8 @@
 
 Workflow-As-Code, a clone of Paz
 ================================
+
+[![Join the chat at https://gitter.im/MarkBruns/Workflow-As-Code](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MarkBruns/Workflow-As-Code?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 _Continuous deployment production environments, built on Docker, CoreOS, etcd and fleet._
 
 Workflow-As-Code is a DevOps engineering service platform with a PaaS-like workflow.
